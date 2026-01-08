@@ -10,6 +10,7 @@ WARNING:
 */
 
 \set ON_ERROR_STOP on
+\timing on
 
 \echo '================================='
 \echo 'Initializing truncates and loads on staging'
